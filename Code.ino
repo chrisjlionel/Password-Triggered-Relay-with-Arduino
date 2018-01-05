@@ -23,7 +23,7 @@ char keys[ROWS][COLS] = {            //
 };
 // Connect keypad ROW0, ROW1, ROW2 and ROW3 to these Arduino pins.
 byte rowPins[4]={5,6,7,8};
-byte colPins[4]={9,10,11,12};;
+byte colPins[4]={9,10,11,12};
 
 
 // Create the Keypad
